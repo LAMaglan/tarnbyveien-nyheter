@@ -8,6 +8,9 @@ packages = [{include = "tarnbyveien_nyheter"}]
 
 [tool.poetry.dependencies]
 python = "~3.8"
+urlopen = "^1.0.0"
+beautifulsoup4 = "^4.12.2"
+bs4 = "^0.0.1"
 
 
 [build-system]
