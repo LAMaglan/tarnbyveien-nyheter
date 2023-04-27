@@ -1,0 +1,1 @@
+Simple webscraper that gets news from https://tarnbyveien.borettslag.net/nyheter/
